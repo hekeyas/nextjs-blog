@@ -1,5 +1,5 @@
 ---
-titile: "my github pages"
+title: "my github pages"
 date: "2021-11-29"
 ---
 https://hekeyas.github.io/hollowknights_test.github.io/ this is my first pages 
